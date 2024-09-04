@@ -1,0 +1,9 @@
+<dependencies>
+    <!-- Other dependencies -->
+
+    <dependency>
+        <groupId>com.stripe</groupId>
+        <artifactId>stripe-java</artifactId>
+        <version>22.6.0</version> <!-- Check for the latest version -->
+    </dependency>
+</dependencies>
